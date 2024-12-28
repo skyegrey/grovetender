@@ -1,0 +1,6 @@
+- upon level up, players have a 40% chance per non-hp [[Attributes]] to gain a [[skill point]] in that attribute.
+- For [[HP]], this is instead a bounded distribution from 0 to 10 with mean 4.
+- Players have a level cap of 100
+- Players can spend a [[Redeems]] to [[rebirth]] back to level 1, choosing a stat to permanently increase its leveling percentage.
+- Players gain [[EXP]] by killing monsters in the [[dungeon]]
+- Additional attribute leveling chance is gained by the players current [[Class]] and [[class level]]
